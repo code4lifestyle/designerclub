@@ -42,9 +42,6 @@ export default function Signup() {
       className="w-full max-w-md space-y-4 rounded-2xl border border-white/25 bg-white/10 p-6 shadow-2xl backdrop-blur-2xl scheme-dark"
     >
       <div className="text-center">
-        <p className="text-sm font-semibold tracking-wide text-white">
-          DesignerClub
-        </p>
         <h1 className="mt-1 text-xl font-semibold text-white">Sign up</h1>
         <p className="mt-1 text-sm text-white/70">
           Create your DesignerClub account.
